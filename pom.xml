@@ -14,7 +14,7 @@
         <maven.source.version>3.2.1</maven.source.version>
         <maven.war.version>3.2.3</maven.war.version>
         <slfj4.version>1.7.32</slfj4.version>
-        <guava.version>31.0.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <jackson.version>2.13.0</jackson.version>
         <junit.version>4.13.2</junit.version>
         <jmh.version>1.33</jmh.version>
